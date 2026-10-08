@@ -8,18 +8,21 @@ I enjoy building practical projects and learning new technologies through hands-
 
 ## 🛠️ Skills & Technologies
 
+### Stronger Skills
 - HTML
 - CSS
 - JavaScript
+- PHP
+- ASP.NET
+- VB.NET
+- Laravel
+- MySQL
+
+### Currently Learning
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- ASP.NET
-- VB.NET
-- PHP
-- Laravel
-- Git & GitHub
 
 ## 🚀 Projects
 
@@ -50,6 +53,7 @@ Third Year
 
 - React.js
 - Node.js
+- Express.js
 - MongoDB
 - Full Stack Web Development
 
